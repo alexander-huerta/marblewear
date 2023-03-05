@@ -1,3 +1,8 @@
+## Front End of a Full Stack Web Application that I helped build along side 3 other engineers. React and Bootstrap. 
+
+## I was responsible for the Product Overview page. A notable feature in the Overview Component is the image modal, which was a custom component written mostly with JavaScript. 
+
+
 ![Screenshot from 2022-01-08 12-04-26 (1)](https://user-images.githubusercontent.com/52397472/148657082-6b1400c6-92a4-4a46-a771-767d59e93017.png)
 
 # MarbleWear
